@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/D/IITGN/ES 204 Digital Systems/Assignment4/Assignment4.srcs/sources_1/new/bin_mul.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module bin_mul
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/D/IITGN/ES 204 Digital Systems/Assignment4/Assignment4.srcs/sim_1/new/bin_mul_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module bin_mul_tb

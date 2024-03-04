@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Sat Mar  2 22:17:26 2024
+# Process ID: 3956
+# Current directory: F:/D/IITGN/ES 204 Digital Systems/seven_seg_display/seven_seg_display.runs/synth_1
+# Command line: vivado.exe -log bin_mul.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source bin_mul.tcl
+# Log file: F:/D/IITGN/ES 204 Digital Systems/seven_seg_display/seven_seg_display.runs/synth_1/bin_mul.vds
+# Journal file: F:/D/IITGN/ES 204 Digital Systems/seven_seg_display/seven_seg_display.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source bin_mul.tcl -notrace

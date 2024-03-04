@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Sat Feb 17 18:46:02 2024
+# Process ID: 11504
+# Current directory: F:/D/IITGN/ES 204 Digital Systems/Assignment4/Assignment4.runs/impl_1
+# Command line: vivado.exe -log arr_mul.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source arr_mul.tcl -notrace
+# Log file: F:/D/IITGN/ES 204 Digital Systems/Assignment4/Assignment4.runs/impl_1/arr_mul.vdi
+# Journal file: F:/D/IITGN/ES 204 Digital Systems/Assignment4/Assignment4.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source arr_mul.tcl -notrace

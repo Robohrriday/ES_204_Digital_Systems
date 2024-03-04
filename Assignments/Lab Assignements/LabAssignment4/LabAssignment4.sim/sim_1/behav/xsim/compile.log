@@ -1,0 +1,7 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/D/IITGN/ES 204 Digital Systems/LabAssignment4/LabAssignment4.srcs/sources_1/new/Lab4.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Lab4
+INFO: [VRFC 10-2458] undeclared symbol clk_en, assumed default net type wire [F:/D/IITGN/ES 204 Digital Systems/LabAssignment4/LabAssignment4.srcs/sources_1/new/Lab4.v:7]
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/D/IITGN/ES 204 Digital Systems/LabAssignment4/LabAssignment4.srcs/sources_1/new/TFF.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module TFF
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/D/IITGN/ES 204 Digital Systems/LabAssignment4/LabAssignment4.srcs/sim_1/new/Lab4_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Lab4_tb
